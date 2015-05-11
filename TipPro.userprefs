@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="TipPro.Android\TipPro.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.f893c439" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="TipPro.Android\MainActivity.cs" Line="5" Column="5" />
+      <File FileName="TipPro.Android\PercentActivity.cs" Line="51" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TipPro.Android AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

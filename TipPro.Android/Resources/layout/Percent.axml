@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TextView
+        android:text="How much of a tip should they get?"
+        android:textSize="36dp"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lblQuestion" />
+    <TextView
+        android:text="Slide below for the tip!"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:layout_marginTop="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lblComment" />
+    <SeekBar
+        android:max="100"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="60dp"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBarPercent" />
+    <TextView
+        android:text="0"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:layout_marginTop="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lblPercent" />
+    <Button
+        android:text="TIP 'EM"
+        android:textSize="36dp"
+        android:textStyle="bold"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="95dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCalculate" />
+</LinearLayout>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TextView
+        android:text="Show me the money!"
+        android:textSize="36dp"
+        android:gravity="center"
+        android:layout_marginTop="70dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lblClose" />
+    <TextView
+        android:text="0"
+        android:textSize="72dp"
+        android:gravity="center"
+        android:layout_marginTop="70dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lblTip" />
+    <Button
+        android:text="Exit"
+        android:textSize="36dp"
+        android:textStyle="bold"
+        android:layout_marginTop="70dp"
+        android:layout_marginLeft="95dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnExit" />
+</LinearLayout>

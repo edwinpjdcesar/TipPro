@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Tip Assistant</string>
+
+	<string name="ass">They\'re probably going to spit in your food, just saying..</string>
+	<string name="cheap">Wow, don\'t be so stingy!</string>
+	<string name="fair">Congraulations, Average Joe. You\'ve reached an average tip.</string>
+	<string name="good">Now that\'s more like it!</string>
+	<string name="great">You\'re the man!</string>
+	<string name="ultra">Ok buddy, let\'s take it easy..</string>
+	<string name="mega">Where\'s mine?</string>
+</resources>
